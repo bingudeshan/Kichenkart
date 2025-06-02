@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Kichenkart</string>
+    <string name="continue_with_google">Continue With Google</string>
+    <string name="continue_with_email">Continue With email</string>
+    <string name="find_my_account">Find my account</string>
+    <string name="_94">+94</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="kitchenkart">KitchenKart</string>
+    <string name="enter_your_mobile_number">Enter Your mobile number</string>
+    <string name="i_am">I Am</string>
+    <string name="seller">Seller</string>
+    <string name="customer">Customer</string>
+    <string name="iam">IAm</string>
+    <string name="seller_registration">Seller Registration</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="nic_number">NIC Number</string>
+    <string name="postal_code">Postal Code</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="upload_phi_report_pdf">Upload PHI Report PDF</string>
+    <string name="choose_file">Choose File</string>
+    <string name="submit">Submit</string>
+    <string name="customer_registration">Customer Registration</string>
+    <string name="birthday">Birthday</string>
+    <string name="select_date">Select Date</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="Seller">Seller</string>
+    <string name="Iam">IAm</string>
+    <string name="Customer">Customer</string>
+    <string name="I_am">IAm</string>
+</resources>
